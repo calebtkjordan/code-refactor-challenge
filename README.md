@@ -12,5 +12,5 @@ Refactor Horiseon's website for improved accessibility and SEO.
 ## Preview
 ![Deployment Preview](preview.png)
 
-## Preview
+## Deployment
 [Horiseon Homepage](https://calebtkjordan.github.io/code-refactor-challenge/)
