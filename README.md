@@ -16,4 +16,4 @@ Refactor Horiseon's website for improved accessibility and SEO.
 
 
 ## Preview
-![Horiseon Homepage](https://calebtkjordan.github.io/code-refactor-challenge/)
+[Horiseon Homepage](https://calebtkjordan.github.io/code-refactor-challenge/)
