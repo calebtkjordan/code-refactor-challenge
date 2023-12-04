@@ -10,7 +10,7 @@ Refactor Horiseon's website for improved accessibility and SEO.
 
 
 ## Preview
-![Deployment Preview](preview.jpg)
+![Deployment Preview](preview.png)
 
 ## Deployment and Repository Standards
 
